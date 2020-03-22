@@ -6,6 +6,8 @@ import static org.testng.Assert.assertEquals;
 import org.testng.Assert;
 
 public class DemoTest2 {
+	
+	/*this is jenkin demo test*/
 
 	@Test
 	public void sum()
